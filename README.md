@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arslanym&label=Profile%20views&color=0e75b6&style=flat" alt="arslanym" /> </p>
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **React , Data Structures / Algorithms**
 
 - 🌱 I’m currently learning **React , Flutter , Databases**
 
