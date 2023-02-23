@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arslanym&label=Profile%20views&color=0e75b6&style=flat" alt="arslanym" /> </p>
 
-- 🔭 I’m currently working on **React , Data Structures / Algorithms**
+- 🔭 I’m currently working on **Data Structures / Algorithms**
 
 - 🌱 I’m currently learning **React , Flutter , Databases**
 
@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Open Source Contribution**
 
-- 💬 Ask me about **React ,Front-end Development**
+- 💬 Ask me about **Web-Development**
 
 - 📫 How to reach me **arsalanyaqmalik@gmail.com**
 
