@@ -15,7 +15,7 @@ width="800"  height="3">
 ## 🌐 Socials:
 [![Linkedin Badge](https://img.shields.io/badge/-Arsalan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/arsalan-malik-746913237//)](https://www.linkedin.com/in/arsalan-malik-746913237/)
 [![Instagram Badge](https://img.shields.io/badge/-Arslan-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ars1anm/)](https://instagram.com/ars1anm)
-[![Gmail Badge](https://img.shields.io/badge/-arsalanymalik@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arsalanymalik@gmail.com)](mailto:arsalanymalik@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-arsalanyaqmalik@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arsalanyaqmalik@gmail.com)](mailto:arsalanyaqmalik@gmail.com)
 
 
 # 💻 Tech Stack:
