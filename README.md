@@ -4,8 +4,6 @@
 
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arslanym&label=Profile%20views&color=0e75b6&style=flat" alt="arslanym" /> </p>
-<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966"
-width="800"  height="3">
 
   ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ArslanYM&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -24,7 +22,10 @@ width="800"  height="3">
 ![](https://github-readme-stats.vercel.app/api?username=ArslanYM&theme=onedark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ArslanYM&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArslanYM&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-  ![Arsalan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ArslanYM&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/blob/output/snake.svg" alt="Snake animation" />
+
+###
 </div>
 
 
