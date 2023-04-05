@@ -1,6 +1,7 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Handlee&center=true&vCenter=true&width=500&height=60&lines=The+average+men+consume.+The+wise+create.)](https://git.io/typing-svg)
+
+![mine](https://user-images.githubusercontent.com/104521101/230166113-c0f96eb9-20ef-4d8f-824b-842ffea88b7f.png)
 
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arslanym&label=Profile%20views&color=0e75b6&style=flat" alt="arslanym" /> </p>
