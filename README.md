@@ -10,21 +10,14 @@
 <br/>
 
 
-
-
 ## 🚨 Latest Blog Posts
 <!-- HASHNODE_BLOG:START -->
 <!-- HASHNODE_BLOG:END -->
 
-<div align = "center">
-  
-  ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ArslanYM&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-  
-</div>
+ 
+ 
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/blob/output/snake.svg" alt="Snake animation" />
-
 
 
 
