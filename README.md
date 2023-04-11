@@ -6,20 +6,7 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arslanym&label=Profile%20views&color=0e75b6&style=flat" alt="arslanym" /> </p>
 
-<br/>
-<br/>
 
-
-## 🚨 Latest Blog Posts
-<!-- HASHNODE_BLOG:START -->
-<!-- HASHNODE_BLOG:END -->
-
- 
- 
-
-
-
-
-
-
-
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
