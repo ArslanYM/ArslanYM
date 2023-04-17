@@ -17,7 +17,7 @@ jobs:
         uses: "varunsridharan/action-hashnode-blog@main"
         with:
           USERNAME: 'arslanyym' # Hashnode Username
-          BLOG_URL: 'https://arsalanmalik.hashnode.dev/' # Blog URL
+          BLOG_URL: 'https://arsalanmalik.hashnode.dev/rss.xml' # Blog URL
           COUNT: 3 # MAX Visisble
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
