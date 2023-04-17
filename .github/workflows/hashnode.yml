@@ -21,4 +21,4 @@ jobs:
           STYLE: "blog-left"
           BLOG_URL: "https://arsalanmalik.hashnode.dev/"
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.HASHNODE_SECRET }}
