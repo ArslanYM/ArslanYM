@@ -18,9 +18,11 @@
 
 
 <div align="center">
+
 <img src="https://raw.githubusercontent.com/ArslanYM/ArslanYM/output/snake.svg" alt="Snake animation" />
+
 </div>
 
 
-
+###
 
