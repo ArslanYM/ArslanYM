@@ -17,9 +17,9 @@
 <!-- HASHNODE:END -->
 
 ### 
-
-<img src="https://raw.githubusercontent.com/ArslanYM/ArslanYM/blob/output/snake.svg" alt="Snake animation" />
-
+<div align="center">
+<img src="https://raw.githubusercontent.com/ArslanYM/ArslanYM/output/snake.svg" alt="Snake animation" />
+</div>
 ###
 
 
