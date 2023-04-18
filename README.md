@@ -16,7 +16,10 @@
 - [Fast &amp; Slow pointer method.](https://arsalanmalik.hashnode.dev/fast-slow-pointer-method)
 <!-- HASHNODE:END -->
 
+### 
 
+<img src="https://raw.githubusercontent.com/Ar/Ar/blob/output/snake.svg" alt="Snake animation" />
 
+###
 
 
