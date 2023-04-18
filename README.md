@@ -18,7 +18,7 @@
 
 ### 
 
-<img src="https://raw.githubusercontent.com/Ar/Ar/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ArslanYM/ArslanYM/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
