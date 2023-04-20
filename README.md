@@ -9,11 +9,11 @@
 
 ### My Latest Blog Posts 👇
 <!-- HASHNODE:START -->
+- [Most frequently asked questions answered by a developer with 5+ years of experience in Open Source.](https://arsalanmalik.hashnode.dev/most-frequently-asked-questions-answered-by-a-developer-with-5-years-of-experience-in-open-source)
 - [Is there an end to learning as a Developer?](https://arsalanmalik.hashnode.dev/is-there-an-end-to-learning-as-a-developer)
 - [Read this before pushing  code to your repository.](https://arsalanmalik.hashnode.dev/read-this-before-pushing-code-to-your-repository)
 - [Asking a Software dev &lpar;10+ years of experience&rpar; 5 questions .](https://arsalanmalik.hashnode.dev/asking-a-software-dev-10-years-of-experience-5-questions)
 - [Wanna learn Git but hate tutorials? Here are the only commands you need to know!](https://arsalanmalik.hashnode.dev/wanna-learn-git-but-hate-tutorials-here-are-the-only-commands-you-need-to-know)
-- [Fast &amp; Slow pointer method.](https://arsalanmalik.hashnode.dev/fast-slow-pointer-method)
 <!-- HASHNODE:END -->
 
 
