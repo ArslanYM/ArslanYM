@@ -9,11 +9,11 @@
 
 ### My Latest Blog Posts on Hashnode 👇
 <!-- HASHNODE:START -->
+- [Expanded Widget](https://arsalanmalik.hashnode.dev/expanded-widget)
 - [Containers](https://arsalanmalik.hashnode.dev/containers)
 - [Struggling to build your own Projects?](https://arsalanmalik.hashnode.dev/struggling-to-build-your-own-projects)
 - [Most frequently asked questions answered by a developer with 5+ years of experience in Open Source.](https://arsalanmalik.hashnode.dev/most-frequently-asked-questions-answered-by-a-developer-with-5-years-of-experience-in-open-source)
 - [Is there an end to learning as a Developer?](https://arsalanmalik.hashnode.dev/is-there-an-end-to-learning-as-a-developer)
-- [Read this before pushing  code to your repository.](https://arsalanmalik.hashnode.dev/read-this-before-pushing-code-to-your-repository)
 <!-- HASHNODE:END -->
 
 
