@@ -17,6 +17,20 @@
 <!-- HASHNODE:END -->
 
 <!-- HASHNODE_BLOG:START -->
+<p align="left">
+<a href="https://arsalanmalik.hashnode.dev//column-row-widgets-in-flutter" title="Column & Row Widgets in Flutter"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1682523693278/152c3cd9-e191-4b3b-a965-e1fa6420a4b4.png" alt="Column & Row Widgets in Flutter" width="250px" align="left" /></a>
+<a href="https://arsalanmalik.hashnode.dev//column-row-widgets-in-flutter" title="Column & Row Widgets in Flutter"><strong>Column & Row Widgets in Flutter</strong></a>
+<div><strong>26 Apr 2023</strong> | <strong>Updated: 26 Apr 2023</strong></div>
+<br/> Columns :
+In Flutter,
+
+A Column widget is a layout widget that allows you to arrange other widgets vertically in a top-down manner. It is a useful widget when you want to create a list of items, or when you need to stack multiple widgets on top of ea... </p> <br/> <br/>
+<p align="left">
+<a href="https://arsalanmalik.hashnode.dev//expanded-widget" title="Expanded Widget"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1682435144039/ef5a7b06-e7c9-459c-a5b7-f279ed5a675c.png" alt="Expanded Widget" width="250px" align="left" /></a>
+<a href="https://arsalanmalik.hashnode.dev//expanded-widget" title="Expanded Widget"><strong>Expanded Widget</strong></a>
+<div><strong>25 Apr 2023</strong></div>
+<br/> In Flutter, widgets are the building blocks of user interfaces. They define the structure and behavior of the UI elements that appear on the screen.
+An Expanded widget is a type of layout widget that is used to adjust the size of its child widget ins... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
