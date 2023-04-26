@@ -7,15 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arslanym&label=Profile%20views&color=0e75b6&style=flat" alt="arslanym" /> </p>
 
 
-### My Latest Blog Posts on Hashnode 👇
-<!-- HASHNODE:START -->
-- [Column &amp; Row Widgets in Flutter](https://arsalanmalik.hashnode.dev/column-row-widgets-in-flutter)
-- [Expanded Widget](https://arsalanmalik.hashnode.dev/expanded-widget)
-- [Containers](https://arsalanmalik.hashnode.dev/containers)
-- [Struggling to build your own Projects?](https://arsalanmalik.hashnode.dev/struggling-to-build-your-own-projects)
-- [Most frequently asked questions answered by a developer with 5+ years of experience in Open Source.](https://arsalanmalik.hashnode.dev/most-frequently-asked-questions-answered-by-a-developer-with-5-years-of-experience-in-open-source)
-<!-- HASHNODE:END -->
-
+### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
 <a href="https://arsalanmalik.hashnode.dev//column-row-widgets-in-flutter" title="Column & Row Widgets in Flutter"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1682523693278/152c3cd9-e191-4b3b-a965-e1fa6420a4b4.png" alt="Column & Row Widgets in Flutter" width="250px" align="left" /></a>
