@@ -23,6 +23,12 @@ A Column widget is a layout widget that allows you to arrange other widgets vert
 <div><strong>25 Apr 2023</strong></div>
 <br/> In Flutter, widgets are the building blocks of user interfaces. They define the structure and behavior of the UI elements that appear on the screen.
 An Expanded widget is a type of layout widget that is used to adjust the size of its child widget ins... </p> <br/> <br/>
+<p align="left">
+<a href="https://arsalanmalik.hashnode.dev//containers" title="Containers"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1682350223181/953e3679-5f06-4f12-a418-8dcfd9a6413b.png" alt="Containers" width="250px" align="left" /></a>
+<a href="https://arsalanmalik.hashnode.dev//containers" title="Containers"><strong>Containers</strong></a>
+<div><strong>24 Apr 2023</strong></div>
+<br/> In Flutter, a container widget is a rectangular box that can be used to contain other widgets. It allows you to customize its appearances, such as setting its background color, border, padding, and margin.
+The container widget is very versatile and c... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
