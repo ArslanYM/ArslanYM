@@ -18,7 +18,7 @@ jobs:
         with:
           USERNAME: 'arslanyym'  # Hashnode Username
           BLOG_URL: 'https://arsalanmalik.hashnode.dev/' # Blog URL
-          COUNT: 2 # MAX Visisble
+          COUNT: 3 # MAX Visisble
           STYLE: "blog-left"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
