@@ -31,10 +31,5 @@ A Column widget is a layout widget that allows you to arrange other widgets vert
 <!-- HASHNODE_BLOG:END -->
 
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/ArslanYM/ArslanYM/output/snake.svg" alt="Snake animation" />
-</div>
-
-
 
 
