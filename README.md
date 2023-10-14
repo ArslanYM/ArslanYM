@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arslanym&label=Profile%20views&color=0e75b6&style=flat" alt="arslanym" /> </p>
 
 
-### 📌 My Latest Blogs
+### 📌 My Blogs
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
 <a href="https://arsalanmalik.hashnode.dev//how-to-find-issues-on-github" title="How to Start Finding Issues and Projects to Work on Based on Your Tech Stack"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1683363703444/20738f22-dca2-434d-9f73-12a309bd9b3c.png" alt="How to Start Finding Issues and Projects to Work on Based on Your Tech Stack" width="250px" align="left" /></a>
