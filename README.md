@@ -30,7 +30,7 @@ In Flutter,
 A Column widget is a layout widget that allows you to arrange other widgets vertically in a top-down manner. It is a useful widget when you want to create a list of items, or when you need to stack multiple widgets on top of ea... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
-[![An image of @arslanym's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arslanym)](https://holopin.io/@arslanym)
+
 
 
 
