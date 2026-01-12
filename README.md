@@ -1,1 +1,1 @@
-24 - software engineer
+24 - software engineer - building [ASYS Studio]("https://asys-studio-landing.vercel.app")
