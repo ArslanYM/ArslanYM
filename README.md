@@ -10,15 +10,6 @@
 ## ~/recent builds
 
 - **[asys studio](https://www.asysstudio.online/)** — transform your business with custom digital solutions.
-- **[--](https://github.com/ArslanYM)** — building.
-- **[--](https://github.com/ArslanYM)** — building.
-- **[--](https://github.com/ArslanYM)** — building.
-- **[--](https://github.com/ArslanYM)** — building.
-- **[--](https://github.com/ArslanYM)** — building.
-- **[--](https://github.com/ArslanYM)** — building.
-- **[--](https://github.com/ArslanYM)** — building.
-- **[--](https://github.com/ArslanYM)** — building.
-- **[--](https://github.com/ArslanYM)** — building.
 
 
 - and many more in my profile :)
