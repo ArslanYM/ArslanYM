@@ -7,13 +7,6 @@
 </p>
 
 
-## ~/recent builds
-
-- **[asys studio](https://www.asysstudio.online/)** — transform your business with custom digital solutions.
-
-
-- and many more in my profile :)
-<br/>
 
 
 ## ~/stack
