@@ -6,7 +6,12 @@
   <samp>agile / alignment / aequanimity</samp>
 </p>
 
-## ~/recent builds - **[mockup](https://github.com/ArslanYM/mockup)** — generate mockups for your saas with ai - and many more in my profile :) <br/>
+## ~/recent builds 
+- **[mockup](https://github.com/ArslanYM/mockup)** — generate high quality mockups for your saas instantly.
+- and many more in my profile :)
+
+
+<br/>
 
 
 ## ~/stack
