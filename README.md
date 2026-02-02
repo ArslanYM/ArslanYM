@@ -64,7 +64,7 @@
 
 ```text
 learning — web3  & distributed systems
-building - building ASYS studio
+building - ai fullstack saas applications 
 
 
 ````
