@@ -8,7 +8,7 @@
 
 ## ~/recent builds 
 - **[mockup](https://github.com/ArslanYM/mockup)** — generate high quality mockups for your saas instantly.
-- building **[meld](https://github.com/ArslanYM/meld)** rn 
+- **[meld](https://github.com/ArslanYM/meld)** - talk to your favt ai chatbots at once. 
 - and many more in my profile :)
 
 
