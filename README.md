@@ -9,7 +9,7 @@
 ## ~/recent builds 
 - **[mockup](https://github.com/ArslanYM/mockup)** — generate high quality mockups for your saas instantly.
 - **[meld](https://github.com/ArslanYM/meld)** - talk to your favt ai chatbots at once.
-- **[zapo]()** - content creator favt tool.
+- **[craze](https://github.com/ArslanYM/craze)** - auto generate and schedule videos.
 - and many more in my profile :)
 
 
