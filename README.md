@@ -6,11 +6,14 @@
   <samp>agile / alignment / aequanimity</samp>
 </p>
 
-## ~/recent builds 
+
+## ~/freelance 
+- **[asys studio](https://www.asysstudio.online/)** - helping you build digital experiences that matter.
+
+
+## ~/recent builds  
 - **[mockup](https://github.com/ArslanYM/mockup)** — generate high quality mockups for your saas instantly.
 - **[meld](https://github.com/ArslanYM/meld)** - talk to your favt ai chatbots at once.
-- building more rn
-
 
 <br/>
 
