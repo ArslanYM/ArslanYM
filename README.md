@@ -14,7 +14,8 @@
 ## ~/recent builds  
 - **[mockup](https://github.com/ArslanYM/mockup)** — generate high quality mockups for your saas instantly.
 - **[meld](https://github.com/ArslanYM/meld)** - talk to your favt ai chatbots at once.
-- **[kisanVoice](https://github.com/ArslanYM/kisanVoice)** - speak, get farm intel: ask in kashmiri, hindi or english, receive live market prices, NH44‑aware logistics tips, and a daily brief—no typing.
+- **[kisanVoice](https://github.com/ArslanYM/kisanVoice)** - get live prices, NH44 logistics, and daily briefs by simply speaking in any local language
+- **[mergeDoc](https://github.com/ArslanYM/mergedoc)** - ai-powered release documentation — generates categorized changelog entries from merged pr diffs
 
 <br/>
 
