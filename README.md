@@ -16,7 +16,7 @@
 - **[meld](https://github.com/ArslanYM/meld)** - talk to your favt ai chatbots at once.
 - **[kisanVoice](https://github.com/ArslanYM/kisanVoice)** - get live prices, NH44 logistics, and daily briefs by simply speaking in any local language
 - **[mergeDoc](https://github.com/ArslanYM/mergedoc)** - ai-powered release documentation — generates categorized changelog entries from merged pr diffs
-
+- **[vizTrack](https://viz-track.vercel.app/)** - smear reality in your browser.
 <br/>
 
 
