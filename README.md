@@ -1,5 +1,7 @@
+
+
 <p align="center">
-  <img src="./death-note.gif" height = "250px" width="100%" alt="loop" style="object-fit: cover;>
+  <img src="./death-note.gif" height = "250px" width="100%" alt="loop" style="object-fit: cover;">
 </p>
     
 <p align="center">
